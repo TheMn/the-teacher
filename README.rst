@@ -23,6 +23,20 @@ If you just need to add a link, fix a typo, or paste your Gen-AI prompts, you ca
     *   **Heads up**: These files use **reStructuredText (.rst)** format. It cares about indentation and underlines (like ``====`` or ``----``). Try to follow the existing pattern.
 5.  Scroll down to "Commit changes", write a short message (e.g., "Added Arcweave link"), and click **Commit changes**.
 
+**How to add a new page (e.g., "Characters"):**
+1.  Create a new file in ``docs/source/`` (e.g., ``characters.rst``) and add your content.
+2.  Open ``docs/source/index.rst``.
+3.  Add the filename (without ``.rst``) to the list under ``.. toctree::`` (ensure it is indented to match the others):
+
+    .. code-block:: rst
+
+       .. toctree::
+
+          overview
+          structure
+          media
+          characters
+
 **Example:**
 To add a YouTube video to `media.rst`, open the file and change the placeholder:
 
@@ -52,12 +66,14 @@ If you want to preview how the documentation looks before publishing, follow the
     Navigate to the ``docs`` folder and run the build command.
 
     *   **Mac/Linux**:
+
         .. code-block:: bash
 
            cd docs
            make html
 
     *   **Windows**:
+
         .. code-block:: bat
 
            cd docs

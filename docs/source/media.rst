@@ -7,5 +7,5 @@ YouTube Videos
 .. note::
    Links to YouTube videos related to the project will be added here.
 
-   *   [Placeholder for YouTube Video 1]
+   *   `Asktopus Channel (The Teacher) <https://www.youtube.com/@asktopus>`_
    *   [Placeholder for YouTube Video 2]
