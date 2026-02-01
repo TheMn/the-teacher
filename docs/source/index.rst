@@ -12,4 +12,4 @@ Contents
 
    overview
    structure
-   media
+   prompts
