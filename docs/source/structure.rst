@@ -40,8 +40,7 @@ For Photo:
      "prompt": "[Expanded cinematic description]",
      "negative_prompt": "[Standard exclusions + user-specific ones]",
      "aspect_ratio": "16:9",
-     "lighting": "[Specific light sources]",
-     "camera_movement": "[Static or implied movement]"
+     "lighting": "[Specific light sources]"
    }
 
 For Video:
