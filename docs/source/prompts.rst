@@ -136,3 +136,68 @@ Human_Generated_Connection
 --------------------------
 
     A dark, science-fiction scene centered around a unique piece of art clearly made by human hands. Despite the moody atmosphere, people gathered around the artwork appear joyful, finding deep meaning and a sense of community through the creative expression.
+
+The_Sacrifice_(Visualizing_Altruism)
+------------------------------------
+
+    A cinematic sci-fi scene in a war-torn corridor. A human soldier in battered armor steps into a blinding beam of energy, physically shielding a wounded comrade on the floor. The scene highlights the contrast between the harsh, cold technological environment and the warm, emotional act of sacrifice. Ultra-realistic textures, dramatic backlighting.
+
+The_Transformation_(Reference_Based)
+------------------------------------
+
+    A cinematic close-up shot based on the reference image. A glowing blue liquid-electric energy stream flows into the subject's temple, triggering a biological mutation. Veins glow with shifting violet and blue hues, and the skin texture shifts into something synthetic. Background is a dark, smoky ruin with high-contrast storm lighting. Slow zoom-in aesthetic, ultra-realistic style.
+
+The_Non_Human_Gaze_(Reference_Based)
+------------------------------------
+
+    A hyper-realistic close-up of the protagonist's face. Their eyes have been replaced by glowing, blinking blue LED arrays, creating an eerie, non-human appearance. The lighting is low-key and realistic, emphasizing the artificial glow against human skin. Subtle futuristic horror atmosphere, cinematic depth of field.
+
+The_Duality_of_Humanity_(Abstract_to_Visual)
+--------------------------------------------
+
+    A split-composition illustration. The left side depicts a dark, gritty cityscape with smoke and conflict. The right side transitions seamlessly into a scene of rebuilding, where a medic bandages a wound and a child holds a lantern. The lighting shifts from harsh orange fire to a soft, hopeful golden dawn. High detail.
+
+The_Alien_Observer
+------------------
+
+    A wide shot from a high vantage point looking down on a bustling cyberpunk city. In the foreground, a sleek, silhouetted alien figure stands motionless, observing. The city below is a mix of chaotic street fights in shadows and brightly lit community gatherings in open squares, illustrating the contrast of human behavior.
+
+The_Hard_Reset_(Post_Apocalyptic_Landscape)
+-------------------------------------------
+
+    A panoramic landscape of Earth after humanity has been wiped clean. Nature has reclaimed the steel structures; skyscrapers are overgrown with massive vines and moss. The atmosphere is calm and misty. No humans are present. The lighting is flat and grey, suggesting a neutral, cold logic rather than a violent war.
+
+Faith_in_Chaos_(Visualizing_Persistence)
+----------------------------------------
+
+    A photorealistic wide shot of a futuristic bridge collapsing in a storm. In the center, a single human figure stands perfectly still and calm, holding a small glowing artifact, while the world around them dissolves into chaos. The image captures the psychological endurance of faith amidst total destruction. No text, cinematic lighting.
+
+Hope_as_Illusion_(Dark_Sci_Fi)
+------------------------------
+
+    A gritty sci-fi shot of a ragged survivor reaching toward a beautiful, shimmering hologram of a paradise city. The hologram casts a deceptive glow on their dirty, exhausted face. The background reveals the reality: a cold, dark, industrial wasteland. This illustrates hope as a dangerous emotional distortion.
+
+Love_as_Vulnerability
+---------------------
+
+    A dark, moody scene in a rain-slicked alley. A heavily armored protector removes their helmet and shield to embrace a smaller figure, exposing their unprotected back to the shadows. The lighting is severe and high-contrast, emphasizing the danger and vulnerability inherent in the act of care.
+
+The_Explosion_(Explosive_Finale)
+--------------------------------
+
+    A cinematic wide shot of a desolate wasteland. A protagonist in a leather jacket stands in the foreground, back to the camera. In the far distance, a massive explosion erupts, sending a shockwave of smoke and debris outward. No text or signs. The focus is strictly on the figure and the distant destruction.
+
+The_Exodus_(Aliens_Leaving)
+---------------------------
+
+    A cinematic video sequence. Thousands of organic, bio-luminescent alien spaceships rise synchronously from Earth's atmosphere into space. As the camera pulls back to a wide orbital shot, the stream of ships fades away, leaving the Earth silent, blue, and completely empty of the alien presence.
+
+The_Clean_Slate_Montage
+-----------------------
+
+    A slow, ominous montage. Massive, cold geometric machines descend from the sky. Without explosions or fire, cities simply dissolve into dust. Oceans shift color. The sequence ends with a static shot of a pristine, empty landscape under a burned sky, symbolizing a logical system reset.
+
+The_Survivor_(Image_to_Video)
+-----------------------------
+
+    Isolate the smoke in the distance and the jacket of the protagonist. Animate the smoke billowing slowly outward and the jacket flapping gently in the wind. Apply a slow camera push (zoom in) toward the protagonist. Keep all other foreground elements static to emphasize the scale of the distant explosion.
