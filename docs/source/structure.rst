@@ -13,9 +13,9 @@ Arcweave Project
 ----------------
 
 .. note::
-   Link to the Arcweave structure will be added here.
+   Link to the Arcweave structure:
 
-   *   [Placeholder for Arcweave Link]
+   *   https://arcweave.com/app/project/VO645QL0xY
 
 Gen-AI Prompts
 --------------
